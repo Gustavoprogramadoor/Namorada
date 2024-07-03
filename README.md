@@ -1,10 +1,9 @@
-
 <!DOCTYPE html>
 <html lang="pt-BR">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Dia dos Namorados</title>
+    <title>Minha gata</title>
     <link href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" rel="stylesheet">
     <style>
         body, html {
@@ -151,7 +150,7 @@
             </div>
             <div class="col-md-6 message-container">
                 <div id="messageContent">
-                    <h1>Feliz Dia dos Namorados!</h1>
+                    <h1>Eu te amo gata!</h1>
                     <p>Que nosso amor continue crescendo a cada dia. Amo você!</p>
                     <div class="play-button">
                         <div id="playAudio" class="heart-button">
@@ -161,18 +160,21 @@
                 </div>
                 <div id="typedText" class="message">
                     Vidaaaa,<br><br>
-                    Só tenho a agradecer por ter você na minha vida. Você é uma namorada maravilhosa, às vezes maluquinha, mas é exatamente isso que te torna única e especial. Amo o seu jeitinho, e foi esse nosso jeito doidinho que acabou nos unindo também.<br><br>
-                    A vida é engraçada, né? Às vezes estamos apenas vivendo um dia após o outro, sem grandes expectativas, e nem imaginamos que Deus está mexendo os pauzinhos para dar um rumo melhor em tudo. A forma como nos conhecemos foi muito divertida e, com certeza, não foi por acaso. Tenho certeza de que foi Deus quem cruzou nossos caminhos, e sou extremamente grato por isso, pois encontrei em você a melhor companheira que poderia desejar.<br><br>
-                    Você é minha namorada, minha parceira e minha amiga. Me sinto muito privilegiado de encontrar tudo isso na pessoa que amo. Quero compartilhar minha vida inteira com você, construindo nossa família e realizando todos os nossos sonhos. E, claro, viajando muito, curtindo festivais, tomando umas brejas em algum bar por aí, fazendo uns rolês de carro, fofocando e rindo como sempre.<br><br>
-                    Com certeza, você é a melhor namorada do mundo e minha melhor companhia. Que Deus continue abençoando a nossa união. Pode contar comigo para tudo que precisar; estarei sempre aqui para te ajudar e te apoiar em tudo.<br><br>
-                    Você torna todos os meus dias melhores, e sou eternamente grato por isso. Obrigado por ser quem você é e por trazer tanta alegria à minha vida. Obrigado por ser sempre tão compreensiva comigo, por entender meus medos, inseguranças e até minhas chatices. Ninguém é perfeito, mas você me faz sentir que estou quase lá… brincadeira, kkkk. Acho que estou em 98%, kkkk.<br><br>
-                    Te amoooo muitooooo!
+                    Hoje eu acordei pensando em você, como sempre acontece quando estou longe. Sua presença é como um abraço que me acalma e me faz sentir em casa, não importa onde eu esteja.
+                    Você sabe, às vezes eu fico aqui lembrando de todas as pequenas coisas que tornam você única para mim. Seu jeito de sorrir quando está feliz, a maneira como você me faz sentir amado todos os dias.
+                    É incrível como você entende até mesmo as minhas falhas e me ajuda a ser uma pessoa melhor. Eu me sinto sortudo por ter alguém que me completa de uma maneira tão especial.
+                    Obrigado por ser tão maravilhosa, por viver sua vida comigo e por me fazer acreditar no poder do amor todos os dias.............
+                    Quero compartilhar minha vida inteira com você, construindo nossa família e realizando todos os nossos sonhos. E, claro, viajando muito e fazendo uns rolês de carro, fofocando e rindo como sempre.
+                    Com certeza, você é a melhor namorada do mundo e minha melhor amiga. Que Deus continue abençoando a nosso relacionamento. Pode contar comigo para tudo que precisar; estarei sempre aqui para te ajudar e te apoiar em tudo.<br><br>
+                  
+                    Te amoooo muito gata!
                 </div>
             </div>
         </div>
     </div>
     <div class="audio-container">
         <iframe id="audioPlayer" width="560" height="315" src="https://www.youtube.com/embed/ZE1yh5NoDiU?enablejsapi=1" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allow="autoplay"></iframe>
+    </div>
     </div>
 
     <script src="https://www.youtube.com/iframe_api"></script>
